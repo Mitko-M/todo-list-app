@@ -1,0 +1,12 @@
+header {
+  background-color: #f5e7c6;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+}
+
+header > h2 {
+  font-family: cursive;
+}
