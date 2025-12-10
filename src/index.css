@@ -8,4 +8,12 @@
 
 body {
   background-color: #faf3e1;
+  min-height: 100vh;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: inherit;
 }

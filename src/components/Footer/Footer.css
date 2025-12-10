@@ -1,0 +1,12 @@
+footer {
+  background-color: #f5e7c6;
+  min-height: 50px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 20px;
+}
+
+footer > h3 {
+  font-family: cursive;
+}
